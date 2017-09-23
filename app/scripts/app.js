@@ -15,6 +15,6 @@
     }
 
     angular
-        .module('JKHproductions', ['ui.router'])
+        .module('JKHproductions', ['ui.router', 'ui.bootstrap'])
         .config(config);
 })();
